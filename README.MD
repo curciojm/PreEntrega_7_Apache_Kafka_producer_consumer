@@ -7,10 +7,9 @@ Implementación de un pipeline de procesamiento de eventos en tiempo real utiliz
 ## Estructura
 
 ```text
-apache-kafka/
-├── producer/
-│   └── producer.py
-├── consumer/
+.
+├── apache-kafka/
+│   ├── producer.py
 │   └── consumer.py
 ├── docker-compose.yml
 └── README.md
